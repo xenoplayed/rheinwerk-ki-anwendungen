@@ -1,0 +1,10 @@
+name: my_ki_lab
+dependencies:
+  - python=3.11.5
+  - jupyter
+  - numpy
+  - pandas
+  - matplotlib
+  - scikit-learn
+  - keras
+  - tensorflow
